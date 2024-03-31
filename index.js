@@ -1,5 +1,5 @@
 const farmAnimals = 'cow horse sheep pig chicken';
-const animalSounds = {
+const animalSounds ={
     cow: 'moo',
     horse: 'neigh',
     sheep: 'baa',
